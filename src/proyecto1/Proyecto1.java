@@ -10,7 +10,7 @@ package proyecto1;
  * @author WINDOWS 10
  */
 public class Proyecto1 {
-jakjlfasdjlkfjasdñilfsa
+
     /**
      * @param args the command line arguments
      */
